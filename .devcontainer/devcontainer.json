@@ -17,6 +17,7 @@
 			"installVscDebugger": true,
 			"installBspm": true
 		},
+		"ghcr.io/rocker-org/devcontainer-features/renv-cache:0": {},
 		"ghcr.io/rocker-org/devcontainer-features/r-history:0": {}
 	},
 
