@@ -42,7 +42,8 @@
 				"r.rterm.linux": "/usr/local/bin/radian",
 				"r.bracketedPaste": true,
 				"r.plot.useHttpgd": true,
-				"terminal.integrated.defaultProfile.linux": "R Terminal"
+				"terminal.integrated.defaultProfile.linux": "R Terminal",
+				"git.verboseCommit": true
 			}
 		}
 	},
