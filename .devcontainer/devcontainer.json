@@ -15,7 +15,7 @@
 			"installRMarkdown": true,
 			"installRadian": true,
 			"installVscDebugger": true,
-			"installBspm": true,
+			"installBspm": true
 		},
 		"ghcr.io/rocker-org/devcontainer-features/r-history:0": {},
 		"ghcr.io/rocker-org/devcontainer-features/r-packages:1": {
