@@ -17,13 +17,7 @@
 			"installVscDebugger": true,
 			"installBspm": true
 		},
-		"ghcr.io/rocker-org/devcontainer-features/r-history:0": {},
-		"ghcr.io/rocker-org/devcontainer-features/r-packages:1": {
-			"installSystemRequirements": true,
-			"packages": "curl,R6",
-			"pakVersion": "stable",
-			"additionalRepositories": "rhub = 'https://r-hub.r-universe.dev', jeroen = 'https://jeroen.r-universe.dev'"
-		}
+		"ghcr.io/rocker-org/devcontainer-features/r-history:0": {}
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
