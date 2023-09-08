@@ -32,7 +32,11 @@
 		// Settings for VS Code.
 		"vscode": {
 			"extensions": [
-				"RDebugger.r-debugger"
+				"RDebugger.r-debugger",
+				"eamodio.gitlens",
+				"REditorSupport.r",
+				"DavidAnson.vscode-markdownlint",
+				"mhutchie.git-graph"
 			],
 			"settings": {
 				"r.rterm.linux": "/usr/local/bin/radian",
